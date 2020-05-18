@@ -1,5 +1,5 @@
 # log-2020
-Log diário de textos, artigos, matérias, cursos, etc..
+Log diário de textos, artigos, matérias, cursos, livros etc..
 
 ## 18/05/2020
 Course: [Testing React Components with Enzyme and Jest 📹](https://egghead.io/courses/test-react-components-with-enzyme-and-jest)
