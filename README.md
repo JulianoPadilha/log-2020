@@ -6,3 +6,5 @@ Course: [Testing React Components with Enzyme and Jest 📹](https://egghead.io/
 * [Repositório no GitHub](https://github.com/JulianoPadilha/learning-jest-with-enzyme)
 
 [Tips to Level Up Your JavaScript and React Skills](https://medium.com/better-programming/tips-to-level-up-your-javascript-and-react-skills-62bfbbb9b4d)
+
+## 19/05/2020
