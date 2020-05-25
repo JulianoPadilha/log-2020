@@ -18,4 +18,4 @@ Curso: [Testing React Components with Enzyme and Jest 📹](https://egghead.io/c
 Course: [Testing React Components with Enzyme and Jest 📹](https://egghead.io/courses/test-react-components-with-enzyme-and-jest)
 * [Repositório no GitHub](https://github.com/JulianoPadilha/learning-jest-with-enzyme)
 
-Curso: Impressão de 3D 📹
+Curso: Impressão 3D 📹
