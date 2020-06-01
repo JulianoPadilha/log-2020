@@ -22,6 +22,7 @@ Curso: Impressão 3D 📹
 
 ## 01/06/2020
 Curso: [Mini-curso de TypeScript](https://www.youtube.com/watch?v=mRixno_uE2o&list=PLlAbYrWSYTiPanrzauGa7vMuve7_vnXG_)
-  Aula 1, 2, 3, 4 e 5
+
+* Aula: 1, 2, 3, 4 e 5
 
 [Rethinking Unit Test Assertions](https://medium.com/javascript-scene/rethinking-unit-test-assertions-55f59358253f)
