@@ -26,3 +26,7 @@ Curso: [Mini-curso de TypeScript](https://www.youtube.com/watch?v=mRixno_uE2o&li
 * Aula: 1, 2, 3, 4 e 5
 
 [Rethinking Unit Test Assertions](https://medium.com/javascript-scene/rethinking-unit-test-assertions-55f59358253f)
+
+[Here is how React’s new context api works](https://youtu.be/XLJN4JfniH4)
+
+[Heres how JavaScript's Nested Object Destructuring works](https://youtu.be/_ApRMRGI-6g)
