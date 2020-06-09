@@ -43,3 +43,21 @@ Curso: [Mini-curso de TypeScript 📹](https://www.youtube.com/watch?v=mRixno_uE
 ## 03/06/2020
 
 [Fundamentando Mocks em JavaScript | Gabriel Ramos](https://gabrieluizramos.com.br/fundamentando-mocks-em-javascript) 📜
+
+## 04/06/2020
+
+[The Power of the Composite Design Pattern in JavaScript](https://medium.com/better-programming/the-power-of-the-composite-design-pattern-in-javascript-51eef5eaaa05) 📜
+
+[Stop Using Objects as Hash Maps in JavaScript](https://medium.com/better-programming/stop-using-objects-as-hash-maps-in-javascript-9a272e85f6a8) 📜
+
+[https://2ality.com/](https://2ality.com/) - blog com vários artigos sobre JS e TS
+
+## 05/06/2020
+
+[10 JavaScript Concepts You Need to Master React (+ Cheatsheet)](https://codeartistry.io/10-javascript-concepts-you-need-to-master-react/)📜
+
+## 06/06/2020
+
+[7 really good reasons not to use typescript](https://everyday.codes/javascript/7-really-good-reasons-not-to-use-typescript/)📜
+
+
