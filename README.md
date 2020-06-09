@@ -65,4 +65,4 @@ Curso: [Testing React Components with Enzyme and Jest 📹](https://egghead.io/c
 * [Repositório no GitHub](https://github.com/JulianoPadilha/learning-jest-with-enzyme)
 
 Curso: [React.js Ninja 📹](https://www.udemy.com/course/curso-reactjs-ninja/)
-* Nódulo 1 - aula 1
+* Módulo 1 - aula 1
