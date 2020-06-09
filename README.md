@@ -60,4 +60,6 @@ Curso: [Mini-curso de TypeScript 📹](https://www.youtube.com/watch?v=mRixno_uE
 
 [7 really good reasons not to use typescript](https://everyday.codes/javascript/7-really-good-reasons-not-to-use-typescript/)📜
 
-
+## 08/06/2020
+Curso: [Testing React Components with Enzyme and Jest 📹](https://egghead.io/courses/test-react-components-with-enzyme-and-jest)
+* [Repositório no GitHub](https://github.com/JulianoPadilha/learning-jest-with-enzyme)
