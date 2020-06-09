@@ -66,3 +66,5 @@ Curso: [Testing React Components with Enzyme and Jest 📹](https://egghead.io/c
 
 Curso: [React.js Ninja 📹](https://www.udemy.com/course/curso-reactjs-ninja/)
 * Módulo 1 - aula 1
+
+[Por que paramos de usar snapshot testing em componentes na Conta Azul](https://engineering.contaazul.com/por-que-paramos-de-usar-snapshot-testing-em-componentes-na-conta-azul-9fd6d18024a8)📜
