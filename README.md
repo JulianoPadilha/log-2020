@@ -68,3 +68,12 @@ Curso: [React.js Ninja 📹](https://www.udemy.com/course/curso-reactjs-ninja/)
 * Módulo 1 - aula 1
 
 [Por que paramos de usar snapshot testing em componentes na Conta Azul](https://engineering.contaazul.com/por-que-paramos-de-usar-snapshot-testing-em-componentes-na-conta-azul-9fd6d18024a8)📜
+
+## 10/06/2020
+[How to write the perfect pull request](https://github.blog/2015-01-21-how-to-write-the-perfect-pull-request/)📜
+
+## 11/06/2020
+
+[Um Programador Pleno já deveria saber usar esse Design Pattern (tutorial linha a linha)](https://www.youtube.com/watch?v=arAz2Ff8s88)📹
+
+[Uma visão sobre "JavaScript Avançado" feat. Design Patterns | FrontEndSP Meetup](https://www.youtube.com/watch?v=9U7ICpao3_c)📹
